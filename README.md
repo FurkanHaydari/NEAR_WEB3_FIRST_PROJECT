@@ -1,4 +1,4 @@
-#Creating smart contracts and deploying them using by Near-Cli.
+# Creating smart contracts and deploying them using by Near-Cli.
 
 # `near-sdk-as` Starter Kit
 
